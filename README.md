@@ -7,14 +7,16 @@ The ultimate objective of this project is to extract valuable insights from the 
 
 ### Tasks
 1. Exploratory Data Analysis and Pre-processing:
-- Import and cleanse the dataset.
+- Import and clean the dataset.
 - Analyze and visualize relationships among variables.
 - Address missing values and outliers.
 - Implement relevant feature engineering techniques.
+
 2. Unsupervised Learning:
 - Apply k-means clustering, hierarchical clustering, and PCA to the "Wholesale Data" dataset.
 - Identify underlying patterns and group similar data points together.
 - Determine the optimal number of clusters.
+- Try different variables to see if there were better ways of clustering.
 - Present insights through effective data visualizations.
 
 ## Challenges Faced
