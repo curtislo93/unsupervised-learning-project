@@ -1,16 +1,34 @@
 # Machine Learning Project - Unsupervised Learning
+## Project Overview/Goal
+This project focuses on applying unsupervised learning techniques to a real-world dataset, "Wholesale Data." The primary objective is to use these techniques to gain insights from the data and effectively communicate these findings through data visualization tools.
+The ultimate objective of this project is to extract valuable insights from the "Wholesale Data" dataset. These insights will be conveyed to stakeholders using apt visualizations and metrics. This approach empowers stakeholders to make informed business decisions based on the questions posed.
 
 ## Project Outcomes
-- Unsupervised Learning: perform unsupervised learning techniques on a wholesale data dataset. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
+Unsupervised Learning: Employ unsupervised learning methodologies on the "Wholesale Data" dataset. The project consists of four core phases:
 
-### Project Description:
-In this project, we will apply unsupervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
+1. Exploratory Data Analysis and Pre-processing.
+2. KMeans Clustering.
+3. Hierarchical Clustering.
+4. Principal Component Analysis (PCA).
 
-The data set for this project is the "Wholesale Data" dataset containing information about various products sold by a grocery store.
-The project will involve the following tasks:
+## Project Description
 
--	Exploratory data analysis and pre-processing: We will import and clean the data sets, analyze and visualize the relationships between the different variables, handle missing values and outliers, and perform feature engineering as needed.
--	Unsupervised learning: We will use the Wholesale Data dataset to perform k-means clustering, hierarchical clustering, and principal component analysis (PCA) to identify patterns and group similar data points together. We will determine the optimal number of clusters and communicate the insights gained through data visualization.
+### Dataset
+The project centers around the "Wholesale Data" dataset, which encompasses information regarding various products retailed by a grocery store.
 
-The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
+### Tasks
+1. Exploratory Data Analysis and Pre-processing:
+- Import and cleanse the dataset.
+- Analyze and visualize relationships among variables.
+- Address missing values and outliers.
+- Implement relevant feature engineering techniques.
+2. Unsupervised Learning:
+- Apply k-means clustering, hierarchical clustering, and PCA to the "Wholesale Data" dataset.
+- Identify underlying patterns and group similar data points together.
+- Determine the optimal number of clusters.
+- Present insights through effective data visualizations.
 
+## Project Goal
+
+## Conclusion
+By leveraging unsupervised learning techniques, this project aims to look at analyze the "Wholesale Data" dataset. The use of data visualization tools will aid in conveying these insights effectively, enabling stakeholders to make well-founded decisions.
